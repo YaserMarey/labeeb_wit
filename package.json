@@ -1,0 +1,22 @@
+{
+  "name": "labeeb",
+  "version": "1.0.0",
+  "description": "Affective Chatbot with Personality",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "1.19.0",
+    "colors": "1.1.2",
+    "express": "4.16.3",
+    "moment": "^2.24.0",
+    "node-wit": "^5.0.0",
+    "request": "^2.88.0",
+    "restify": "^8.3.3",
+    "xregexp": "3.1.1"
+  }
+}
